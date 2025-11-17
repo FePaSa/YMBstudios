@@ -1,6 +1,6 @@
 # YMBstudios
 
-## Introducció 
+## INTRODUCCIÓ 
 YMB és un projecte que busca ensenyar a la gent el procés creatiu que es duu a terme quan es fan cançons i música en general. 
 
 L’objectiu d’aquest projecte és ajuntar a 12 o 13 artistes emergents (7 artistes i 6 productors més o menys) i portar-los un mes a viure en una casa amb equips de streaming i de música. 
