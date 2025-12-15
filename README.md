@@ -130,16 +130,7 @@ La zona de producció és el "cervell" del projecte.
 * Integració ATEM amb OBS o directament amb YouTube/Twitch.
 * Monitoratge de bitrate i estabilitat.
 
-### 2.5. Servidor i Arxius
-
-* **NAS** (Synology o QNAP) amb:
-    * Carpetes per artista.
-    * Backups automàtics.
-    * Accés per xarxa local.
-* Sistema de còpies de seguretat diàries i setmanals.
-* Control de versions de projectes musicals.
-
-### 2.6. Preparació per Llançament
+### 2.5. Preparació per Llançament
 
 * **Proves Generals:**
     * Streaming privat de test.
