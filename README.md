@@ -47,10 +47,10 @@ Actualment, el consum de música es limita a l'**audiència final**, sense cap c
 
 ### Valor Afegit
 
-- **🎓 Transparència**: L'audiència veu en directe com es creen les cançons.
-- **🎤 Oportunitat per a artistes**: Accés a equipament professional i visibilitat.
-- **📚 Educació**: Els espectadors aprenen sobre producció musical, àudio i streaming.
-- **🤝 Comunitat**: Fomentar la col·laboració entre artistes, productors i tècnics.
+- ** Transparència**: L'audiència veu en directe com es creen les cançons.
+- ** Oportunitat per a artistes**: Accés a equipament professional i visibilitat.
+- ** Educació**: Els espectadors aprenen sobre producció musical, àudio i streaming.
+- ** Comunitat**: Fomentar la col·laboració entre artistes, productors i tècnics.
 
 ---
 
@@ -72,12 +72,12 @@ El projecte **YMB Studios** abasta una **infraestructura completa** per a la pro
 
 ---
 
-### **💻 A nivell de sistema operatiu**
+### ** A nivell de sistema operatiu**
 - **Equips de producció i àudio**: Windows 11.
 - **Servidors de xarxa**: Linux.
 
 ---
-### **🌐 A nivell de xarxa i comunicacions**
+### ** A nivell de xarxa i comunicacions**
 - **Connexió a Internet**: Fibra òptica **simètrica de 1 Gbps**.
 - **Segmentació de la xarxa**:
   - **VLAN 10 (Producció)**: `192.168.10.0/24` (PC de streaming, càmeres, taula ATEM).
@@ -88,14 +88,14 @@ El projecte **YMB Studios** abasta una **infraestructura completa** per a la pro
 - **Firewall**: Bloqueig de tràfic entre **VLAN Convidats** i **Producció/Estudis**.
 
 ---
-### **🔌 A nivell físic**
+### ** A nivell físic**
 - **PC de streaming**: i9-13900K, 64GB RAM, RTX 4090 (NVENC per codificació 1080p/60fps).
 - **Càmeres**: PTZ 4K (control remot i qualitat professional).
 - **Àudio**: Micròfons professionals, targetes de so.
 - **Xarxa**: Switches i routers (Ubiquiti Dream Machine Pro, UniFi Switch, UniFi AP WiFi 6).
 
 ---
-### **🔄 Aspectes transversals**
+### ** Aspectes transversals**
 - **Seguretat**: Firewall, control d'accés, còpies de seguretat de les configuracions.
 - **Monitoratge**: Alertes de latència, bitrate i estabilitat del streaming.
 
@@ -105,14 +105,14 @@ El projecte **YMB Studios** abasta una **infraestructura completa** per a la pro
 
 El projecte **YMB Studios** es centra **exclusivament en la part tècnica i operativa**, per la qual cosa **no abasta** els següents aspectes:
 
-- **❌ Instal·lació d'aplicacions/plugins**:
+- ** Instal·lació d'aplicacions/plugins**:
   Cada productor ha de portar el **DAW** i els **plugins** que utilitzi, ja instal·lats i configurats al seu portàtil.
-- **❌ Producció musical**:
+- ** Producció musical**:
   El projecte no inclou la creació de música (composició, gravació, mescla, etc.), ja que no som **productors musicals** ni **artistes**.
 
 ---
 ---
-## **👥 Actors Principals**
+## ** Actors Principals**
  | **Actor**               | **Rol**                                                                                     |
  |-------------------------|---------------------------------------------------------------------------------------------|
  | **Tècnic de producció** | Configura OBS, supervisa el streaming i interactua amb el xat.                              |
